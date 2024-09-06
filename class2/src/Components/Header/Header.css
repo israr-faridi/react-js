@@ -1,0 +1,13 @@
+.Header{
+    padding: 10px 20px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #eee;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
